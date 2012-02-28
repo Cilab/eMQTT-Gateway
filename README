@@ -1,0 +1,2 @@
+eMQTT is an embbeded MQTT Gateway written in Python. It's based on Mosquitto
+Python Client Library (http://mosquitto.org/documentation/python/)

@@ -19,3 +19,5 @@ class Gateway(object):
         self.thread_write.setDaemon(True)
         self.thread_write.setName('mqtt->serial')
         self.thread_write.start()
+
+
